@@ -1,7 +1,11 @@
-# FedTeST 
+# FedTeST: Selective Adaptation for Personalised Federated Transformers
 
-This repository hosts the supplementary code for my paper titled "Selective Adaptation for Personalised Federated Transformers".
-- We propose FedTeST, a personalised federated transformer framework that combines hypernetwork-based attention personalisation with selective train- and test-time adaptation of the transformer output projection, enabling efficient client-specific personalisation under non-IID conditions without full-model adaptation.
+**Official code for the paper accepted at The International Conference on Neural Information Processing (ICONIP) 2026**
+
+A personalised federated transformer framework that combines hypernetwork-based attention personalisation with selective train- and test-time adaptation of the transformer output projection, enabling efficient client-specific personalisation under non-IID conditions without full-model adaptation.
+
+---
+
 ## <ins>Recommended</ins> Environment Setup
 
 (1) Clone the repository 
